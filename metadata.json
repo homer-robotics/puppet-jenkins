@@ -46,7 +46,8 @@
       "operatingsystem": "Ubuntu",
       "operatingsystemrelease": [
         "16.04",
-        "18.04"
+        "18.04",
+        "20.04"
       ]
     }
   ],
@@ -61,7 +62,7 @@
     },
     {
       "name": "puppetlabs/java",
-      "version_requirement": ">= 1.0.1 < 8.0.0"
+      "version_requirement": ">= 7.1.1 < 8.0.0"
     },
     {
       "name": "puppet/zypprepo",
